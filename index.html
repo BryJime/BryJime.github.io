@@ -1,0 +1,50 @@
+---
+layout: home
+
+---
+
+
+
+
+<div id="particles-js" style="height:100vh; position:relative; overflow:hidden;">
+  <div style="position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; z-index:10; color:white; text-align:center; padding:1rem;">
+    <h1 style="font-size:3em; margin:0;">Welcome to My Portfolio</h1>
+    <p style="font-size:1.3em; opacity:.9;">Radiologic Technologist → Software Developer</p>
+    <a href="/resume/" style="display:inline-block; margin-top:20px; padding:10px 20px; background:#23a6d5; color:white; text-decoration:none; border-radius:6px;">View My Resume</a>
+  </div>
+</div>
+
+<!-- Load Particles.js from a reliable CDN -->
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"
+        integrity="sha512-U4LZ6k9n7tG3aYbXQ0hVYwC4mQbO0Jx2Yw8pQnWwJ9m0b3W9UO8S9C2m2jDkM8N6m9zvQ8r0n7s2A0nYk9YgNQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+  // small safety check to verify the library loaded
+  window.addEventListener('load', function () {
+    if (typeof particlesJS !== 'function') {
+      console.error('particles.js failed to load');
+      return;
+    }
+    particlesJS('particles-js', {
+      particles: {
+        number: { value: 80 },
+        size: { value: 3 },
+        move: { enable: true, speed: 2 },
+        line_linked: { enable: true, distance: 150, color: '#ffffff' },
+        color: { value: '#23a6d5' }
+      },
+      interactivity: {
+        events: {
+          onhover: { enable: true, mode: 'grab' },
+          onclick: { enable: true, mode: 'push' }
+        }
+      }
+    });
+  });
+</script>
+
+<style>
+  /* Give the section a visible background so you can tell it's working */
+  #particles-js { background: linear-gradient(135deg, #1e3c72, #2a5298); }
+</style>

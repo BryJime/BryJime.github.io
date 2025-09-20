@@ -2,7 +2,21 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+
 ---
 
-![Alt Text](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<div>
+<h1>  </h1>
+
+</div>
+
+<div>
+<img src="/assets/img/689520103c26324916ccd78f-HeadshotPro%20(1).png" alt="profile-img" height="200" width="280" style="border-radius: 40%; align-items: left;
+" >
+<h1 class="home-name" style=" align-items: right;  ">Bryan Jimenez</h1>
+<p>fffffffffff</p>
+</div>
+
+![home image](/assets/img/homeimg.png)
+

@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+
 title: Contact
-parmalink: /Contact
+parmalink: /contact
+
 ---
+
+
 
 Phone Number: 816-299-1293
 
