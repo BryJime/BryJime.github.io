@@ -17,9 +17,7 @@ permalink: /resume
 
 
 
-<div class="github-link" style="text-align: center; "  >
-  <a href="https://github.com/BryJime" style="  font-size: xx-large; " >My GitHub </a>
-</div>
+
 
 
 

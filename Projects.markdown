@@ -18,4 +18,6 @@ MVP Project that helps users find names and views of real x-ray procedures.
 [Project GitHub Repo](https://github.com/BryJime/final-project-Unit-1-Bryan-J)
 
 
-## [My GitHub](https://github.com/BryJime)
+<div class="github-link" style="text-align: center; "  >
+  <a href="https://github.com/BryJime" style="  font-size: xx-large; " >My GitHub Link</a>
+</div>

@@ -1,5 +1,6 @@
 
 
-html {
-    
+.intro-div {
+    display: flex;  
+    align-items: center;
 }
