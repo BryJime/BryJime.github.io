@@ -30,7 +30,7 @@ In 2023, I became certified as a Radiologic Technologist. Working in healthcare 
 <div style="background:#1e1e1e; padding:20px; margin:20px 0; border-radius:8px; color: white">
 <h1>HomeLife</h1>
 <p class="homelife-paragraph" style="margin:0; "> 
-When I am not coding or making xrays, I make music, am gaming or watching a movie classic! Going to metal concerts are one of my favorite things to do. I grew up in the metalcore scene, falling deep into music that emphazies breakdowns and heavy guitar riffs.     
+When I’m not coding or working in radiology, I spend my time making music, gaming, or watching classic films. One of my favorite pastimes is going to metal concerts. I grew up in the metalcore scene, where I fell in love with music that emphasizes heavy guitar riffs and powerful breakdowns.     
 </p>
 </div>
 
